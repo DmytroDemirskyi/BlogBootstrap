@@ -1,0 +1,24 @@
+
+body {
+    background: #283655;
+}
+
+.container {
+    width: 1024px;
+}
+
+.header-block {
+    background: #4D648D;
+    height: 50px;
+}
+
+.nav-header__list {
+    outline: 3px solid red;
+}
+
+.nav-header__list > li {
+    display: inline;
+    color: #ffffff;
+    font-size: 18px;
+    margin-right: 100px;
+}

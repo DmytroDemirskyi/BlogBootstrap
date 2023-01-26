@@ -27,5 +27,9 @@ body {
 
 .block-container-blogs {
     margin-top: 20px;
-    background: red;
+    outline: 2px solid red;
+}
+
+.content-block {
+    outline: 2px solid orange;
 }

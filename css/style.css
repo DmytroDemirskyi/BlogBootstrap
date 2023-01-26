@@ -13,7 +13,9 @@ body {
 }
 
 .nav-header__list {
-    outline: 3px solid red;
+    text-align: center;
+    height: 50px;
+    padding: 12px;
 }
 
 .nav-header__list > li {
@@ -21,4 +23,9 @@ body {
     color: #ffffff;
     font-size: 18px;
     margin-right: 100px;
+}
+
+.block-container-blogs {
+    margin-top: 20px;
+    background: red;
 }
